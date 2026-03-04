@@ -2,7 +2,7 @@
   "name": "devops-demo",
   "version": "1.0.0",
   "description": "Simple DevOps demo app",
-  "main": "app.js",
+  "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js",
     "test": "echo 'Tests passed!' && exit 0"
