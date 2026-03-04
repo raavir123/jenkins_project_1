@@ -1,5 +1,5 @@
 #Use official NOde.js base image
-FROM node:18-apline
+FROM node:18-alpine
 
 #set working drectory inside container
 WORKDIR /app
