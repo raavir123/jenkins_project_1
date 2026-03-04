@@ -2,9 +2,9 @@
   "name": "devops-demo",
   "version": "1.0.0",
   "description": "Simple DevOps demo app",
-  "main": "src/app.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node src/app.js",
+    "start": "node app.js",
     "test": "echo 'Tests passed!' && exit 0"
   },
   "author": "ravi",

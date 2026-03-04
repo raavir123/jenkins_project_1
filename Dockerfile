@@ -15,4 +15,4 @@ COPY . .
 EXPOSE 3000
 
 #command to run this app
-CMD ["npm", "start"]
+CMD ["node", "app.js"]
