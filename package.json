@@ -4,7 +4,7 @@
   "description": "Simple DevOps demo app",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node src/app.js",
     "test": "echo 'Tests passed!' && exit 0"
   },
   "author": "ravi",
