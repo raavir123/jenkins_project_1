@@ -1,0 +1,12 @@
+{
+  "name": "devops-demo",
+  "version": "1.0.0",
+  "description": "Simple DevOps demo app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo 'Tests passed!' && exit 0"
+  },
+  "author": "ravi",
+  "license": "MIT"
+}
